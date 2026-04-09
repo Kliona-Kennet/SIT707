@@ -1,7 +1,7 @@
 package sit707_tasks;
 
 /**
- * @author Ahsan Habib
+ * @author Kliona Kennet
  */
 public class DateUtil {
 
