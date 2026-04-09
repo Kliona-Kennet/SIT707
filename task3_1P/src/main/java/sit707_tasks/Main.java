@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * Hello world!
- * @author Ahsan Habib
+ * @author Kliona Kennet
  */
 public class Main 
 {
