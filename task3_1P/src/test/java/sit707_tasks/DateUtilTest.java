@@ -6,7 +6,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * @author Ahsan Habib
+ * @author Kliona Kennet
  */
 public class DateUtilTest {
 	
