@@ -10,7 +10,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: task9_1P_AttendanceChecker
+        working-directory: task9_1P_AttendanceChecker/attendance-percentage-checker
 
     steps:
       - uses: actions/checkout@v4
